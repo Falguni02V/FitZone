@@ -17,7 +17,7 @@
 
 <br/>
 
-[🚀 Live Demo](https://fitzone-premium.onrender.com/) &nbsp;·&nbsp; [🐛 Report Bug](../../issues) &nbsp;·&nbsp; [💡 Request Feature](../../issues)
+[🚀 Live Demo](https://fitzone-premium.onrender.com/) &nbsp;·&nbsp; [🐛 Report Bug](mailto:vashishthafalguni@gmail.com?subject=🐛%20Bug%20Report%20-%20FitZone&body=Hi%20Falguni,%0A%0A**Describe%20the%20bug:**%0A%0A**Steps%20to%20reproduce:**%0A1.%20%0A2.%20%0A3.%20%0A%0A**Expected%20behavior:**%0A%0A**Screenshots%20(if%20any):**%0A%0AThanks!) &nbsp;·&nbsp; [💡 Request Feature](mailto:vashishthafalguni@gmail.com?subject=💡%20Feature%20Request%20-%20FitZone&body=Hi%20Falguni,%0A%0A**Feature%20idea:**%0A%0A**Why%20it%20would%20be%20useful:**%0A%0A**Any%20examples%20or%20references:**%0A%0AThanks!)
 
 </div>
 
@@ -297,6 +297,22 @@ git push origin feature/AmazingFeature
 
 ---
 
+## 🐛 Report a Bug / 💡 Suggest a Feature
+
+Found something broken? Have a brilliant idea? Reach out directly — every message is read!
+
+| Type | Action | What to include |
+|------|--------|----------------|
+| 🐛 **Bug Report** | [Click to Email](mailto:vashishthafalguni@gmail.com?subject=🐛%20Bug%20Report%20-%20FitZone&body=Hi%20Falguni,%0A%0A**Describe%20the%20bug:**%0A%0A**Steps%20to%20reproduce:**%0A1.%20%0A2.%20%0A3.%20%0A%0A**Expected%20behavior:**%0A%0A**Screenshots%20(if%20any):**%0A%0AThanks!) | What happened, steps to reproduce, screenshots |
+| 💡 **Feature Request** | [Click to Email](mailto:vashishthafalguni@gmail.com?subject=💡%20Feature%20Request%20-%20FitZone&body=Hi%20Falguni,%0A%0A**Feature%20idea:**%0A%0A**Why%20it%20would%20be%20useful:**%0A%0A**Any%20examples%20or%20references:**%0A%0AThanks!) | Your idea, why it's useful, any examples |
+| 💬 **General Feedback** | [Click to Email](mailto:vashishthafalguni@gmail.com?subject=💬%20Feedback%20-%20FitZone&body=Hi%20Falguni,%0A%0AYour%20feedback%20here...%0A%0AThanks!) | Anything on your mind |
+
+📧 **Direct email:** [vashishthafalguni@gmail.com](mailto:vashishthafalguni@gmail.com)
+
+> Clicking any link above opens your email app with the subject & template **pre-filled** — just type your message and send!
+
+---
+
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
@@ -309,6 +325,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Falguni02V-181717?style=for-the-badge&logo=github)](https://github.com/Falguni02V)
 [![Live Site](https://img.shields.io/badge/Live_Site-FitZone-e94560?style=for-the-badge&logo=render&logoColor=white)](https://fitzone-premium.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-vashishthafalguni@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vashishthafalguni@gmail.com)
 
 ---
 
