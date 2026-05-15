@@ -1,0 +1,26 @@
+{
+  "name": "gym-management",
+  "version": "1.0.0",
+  "description": "FitZone Gym Management Website - College Project",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node backend/server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cloudinary": "^2.9.0",
+    "connect-mongo": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.3.1",
+    "express": "^4.18.2",
+    "express-session": "^1.19.0",
+    "jsdom": "^28.1.0",
+    "mongoose": "^9.2.4",
+    "multer": "^2.1.1",
+    "multer-storage-cloudinary": "^2.2.1",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0",
+    "pdf-parse": "^2.4.5"
+  }
+}
