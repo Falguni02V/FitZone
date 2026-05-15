@@ -17,17 +17,17 @@
 
 <br/>
 
-[🚀 Live Demo](#) &nbsp;·&nbsp; [🐛 Report Bug](../../issues) &nbsp;·&nbsp; [💡 Request Feature](../../issues)
+[🚀 Live Demo](https://fitzone-premium.onrender.com/) &nbsp;·&nbsp; [🐛 Report Bug](../../issues) &nbsp;·&nbsp; [💡 Request Feature](../../issues)
 
 </div>
 
 ---
 
-## 📸 Screenshots
+## 🌐 Live Demo
 
-| Home Page | Member Dashboard | Admin Panel |
-|-----------|-----------------|-------------|
-| ![Home](frontend/images/hero.jpg) | *Members Dashboard* | *Admin Dashboard* |
+> 🔗 **[https://fitzone-premium.onrender.com](https://fitzone-premium.onrender.com/)**
+
+> ⚠️ **Note:** Hosted on Render free tier — may take **30–60 seconds** to wake up on first visit.
 
 ---
 
@@ -70,7 +70,7 @@
 | **AI** | OpenAI API (GPT chatbot) |
 | **Sessions** | express-session + connect-mongo |
 | **Admin DB** | MySQL + EJS views |
-| **Deployment** | Render / Vercel-ready |
+| **Deployment** | Render |
 
 ---
 
@@ -132,8 +132,8 @@ Make sure you have these installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Falguni02V/gym-management.git
-cd gym-management
+git clone https://github.com/Falguni02V/FitZone.git
+cd FitZone
 ```
 
 ### 2. Install Dependencies
@@ -178,7 +178,7 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 
 # OpenAI (get from platform.openai.com)
-OPENAI_API_KEY=your_openai_api_key
+OPENAI_API_KEY=sk-...
 ```
 
 ### 4. Setup MySQL Database (Admin Panel)
@@ -233,10 +233,7 @@ node server.js
 ## ☁️ Cloudinary Setup
 
 1. Sign up at [cloudinary.com](https://cloudinary.com) (free tier available)
-2. From your dashboard, copy:
-   - Cloud Name
-   - API Key
-   - API Secret
+2. From your dashboard copy: Cloud Name, API Key, API Secret
 3. Paste into your `.env` file
 
 ---
@@ -244,15 +241,12 @@ node server.js
 ## 🤖 AI Chatbot Setup
 
 1. Get an API key from [platform.openai.com](https://platform.openai.com)
-2. Add to your `.env`:
-   ```env
-   OPENAI_API_KEY=sk-...
-   ```
-3. The chatbot has built-in usage limits per user (configurable in `routes/chat.js`)
+2. Add to `.env`: `OPENAI_API_KEY=sk-...`
+3. Usage limits per user are configurable in `routes/chat.js`
 
 ---
 
-## 🌐 Deployment (Render)
+## 🚀 Deployment (Render)
 
 1. Push your code to GitHub
 2. Go to [render.com](https://render.com) → New Web Service
@@ -294,20 +288,11 @@ node server.js
 
 ## 🤝 Contributing
 
-Contributions are welcome! Here's how:
-
 ```bash
-# 1. Fork the project
-# 2. Create your feature branch
 git checkout -b feature/AmazingFeature
-
-# 3. Commit your changes
 git commit -m 'Add some AmazingFeature'
-
-# 4. Push to the branch
 git push origin feature/AmazingFeature
-
-# 5. Open a Pull Request
+# Then open a Pull Request
 ```
 
 ---
@@ -323,6 +308,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Falguni02V**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Falguni02V-181717?style=for-the-badge&logo=github)](https://github.com/Falguni02V)
+[![Live Site](https://img.shields.io/badge/Live_Site-FitZone-e94560?style=for-the-badge&logo=render&logoColor=white)](https://fitzone-premium.onrender.com/)
 
 ---
 
@@ -333,4 +319,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ⭐ **Star this repo if you found it helpful!** ⭐
 
 </div>
-You can view the website here at https://fitzone-premium.onrender.com/
